@@ -1,1 +1,1 @@
-# amv
+Hello my name is ... im here to discuss how to make a code to cache an inverse matrix function. This work is a requirement needed to pass a coursera course, the R programming from John Hopsking University. Thats all. Thank you.
